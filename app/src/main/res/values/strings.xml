@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">emojifyMe</string>
+    <string name="error">Error Deleting File</string>
+</resources>
