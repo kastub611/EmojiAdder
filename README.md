@@ -9,5 +9,7 @@ It also features a Save function and a Share function which aloows us to save th
 
 # How to use : 
 1) Simply press Let's Go button and it will take you to your camera.
-2) Take a photo with clearly distinguishable faces.
+2) Take a photo with clearly distinguishable faces.(Try taking different pictures with you smiling or frowning and winking)
 3) Tap Add Emoji and see the results.
+
+![Emoji Used](https://github.com/kastub611/EmojiAdder/blob/master/Capture.JPG)
